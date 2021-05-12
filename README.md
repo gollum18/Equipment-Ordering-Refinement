@@ -15,7 +15,7 @@ A mod for Skyrim SE with the goal of allowing players to custom order and refine
 You may ask: "Why would I need this mod if the blacksmithing skill exists?" or "What is the point of the blacksmithing skill with this mod installed?" 
 
 
-Back in the ye-olden days of Oldrim when the game first launched, blacksmithing was a viable skill to level up out of the gate (without glitching the game). This was primiarily because of two features of Oldrim:
+Back in the ye-olden days of Oldrim when the game first launched, blacksmithing was a viable skill to level up out of the gate (without glitching the game). This was primarily because of two features of Oldrim:
 1. Blacksmithing in Oldrim did not possess a diminishing return curve on smithed items and equipment meaning it was entirely possible to level the skill to 100 by just crafting Iron Daggers through slight time investment.
 2. The most abundant ore type in Skyrim is iron ore. The only other ore type in Skyrim that is even remotely close to it's abundance is ebony ore, which the player cannot utilize in smithing until they are nearly finished leveling the skill.
 
