@@ -24,3 +24,6 @@ Sometime around patch 1.5 for Oldrim, Bethesda decided to do away with static le
 
 
 This mod seeks to balance this change by introducing a feature I've always wanted in the game and a feature that it seems Bethesda wanted as well considering the voice acting of the blacksmith vendors: equipment ordering and refinement. The basic premise is to allow players to order equipment and refine it at blacksmiths provided they have the materials and the vendor has the requisite skill. Vendors with higher skill should take less time to produce equipment at a higher cost with the opposite holding true for less skilled vendors. For instance, because crafting dragon equipment takes Master-level skill, only Eorlund Gray-Mane in Whiterun can produce said equipment at a hefty cost as well as a not-insignificant time investment. Of course, equipment that requires the use of a specific forge such as Skyforged equipment should only be orderable at the vendor who would naturally be able to make such equipment.
+
+
+Note that this mod is meant to be immersive with the Skyrim game world. The prices for the new blacksmith services will eventually be balanced the SKyrim economy.
