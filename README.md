@@ -98,4 +98,4 @@ Each type of equipment maps to a required Smithing Mastery level as defined in t
 | Steel          | Novice           |
 
 
-As can be seen in the prior table. Daedric, Dragon, Ebony, and Stalhrim armor are locked behind Master level smithing. Skyforged arms can only be forged by Eorlund Gray-Mane. Wolf armor can only be forged by Eorlund Gray-Mane after you complete the quest "The Silver Hand" from the Harbingers questline. Stalhrim arms and armor can only be forged by Baldor Iron-Shaper after you complete the optional quest "A New Source of Stalhrim".
+As can be seen in the prior table, Daedric, Dragon, Ebony, and Stalhrim armor are locked behind Master level smithing. Skyforged arms can only be forged by Eorlund Gray-Mane. Wolf armor can only be forged by Eorlund Gray-Mane after you complete the quest "The Silver Hand" from the Harbingers questline. Stalhrim arms and armor can only be forged by Baldor Iron-Shaper after you complete the optional quest "A New Source of Stalhrim".
