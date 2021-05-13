@@ -27,3 +27,75 @@ This mod seeks to balance this change by introducing a feature I've always wante
 
 
 Note that this mod is meant to be immersive with the Skyrim game world. The prices for the new blacksmith services will eventually be balanced the Skyrim economy.
+
+
+## Overview
+This mod introduces two additional fields to all blacksmiths: Smithing Mastery and Speech Mastery. Smithing Mastery is used to determine what types of equipment blacksmithing vendors can craft and refine. Speech Mastery is used to help determine the cost of ordering and refining equipment. 
+
+
+Each mastery aligns with one of the traditional skill mastery levels from oldschool Elder Scrolls: Novice, Apprentice, Adept, Expert, and Master. The mastery levels were calculated by extracting the Smithing and Speech skill levels of each blacksmith using the Creation Kit. Skill levels were fitted to a pseudo-normalized distribution where each smith falls into a range of the 15th, 50th, 85th, and 100th percentile. The Smithing and Speech skills of each smith were normalized to a [0, 1] range and were then fitted to the prior percentiles. The following table details the range for each mastery level.
+
+
+| Lower Range | Upper Range |   Mastery  |
+|:-----------:|:-----------:|:----------:|
+|      0      |      15     |   Novice   |
+|      15     |      50     | Apprentice |
+|      50     |      85     |    Adept   |
+|      85     |     100     |   Expert   |
+|     100     |             |   Master   |
+
+
+This distribution results in a single Master level smithing vendor in all of Skyrim as can be seen in the following table.
+
+
+|         Vendor         |       Location       | Smithing Mastery | Speech Mastery |
+|:----------------------:|:--------------------:|:----------------:|----------------|
+|    Adrianne Avenicci   |       Whiterun       |    Apprentice    |   Apprentice   |
+|          Alvor         |       Riverwood      |      Expert      |     Expert     |
+| Arnskar   Ember-Master |    Ragged Flaggon    |      Expert      |     Expert     |
+|   Asbjorn Fire-Tamer   |  The Scorched Hammer |       Adept      |      Adept     |
+|        Balimund        |  The Scorched Hammer |       Adept      |      Adept     |
+|         Beirand        |  Solitude Blacksmith |       Adept      |      Adept     |
+|         Gunmar         |    Fort Dawnguard    |      Master      |     Master     |
+|         Hestla         |    Castle Volkihar   |    Apprentice    |     Novice     |
+|     Glover Mallory     |      Raven Rock      |      Novice      |   Apprentice   |
+|   Baldor Iron-Shaper   |     Skaal Village    |      Novice      |     Novice     |
+|        Dushnamub       |       Narzulbur      |    Apprentice    |     Novice     |
+|        Elrindir        | The Drunken Huntsman |    Apprentice    |   Apprentice   |
+|    Eorlund Gray-Mane   |       Skyforge       |      Expert      |     Expert     |
+|         Fihada         |       Fletcher       |    Apprentice    |   Apprentice   |
+|         Filnjar        |     Shor's Stone     |       Adept      |      Adept     |
+|         Gharol         |     Dushnikh Yal     |    Apprentice    |     Novice     |
+|    Ghorza gra-Bagol    |       Markarth       |      Novice      |     Novice     |
+|           Lod          |       Falkreath      |    Apprentice    |   Apprentice   |
+|     Moth gro-Bagol     |     Markarth Keep    |      Novice      |     Novice     |
+|    Oengul War-Anvil    |       Windhelm       |    Apprentice    |   Apprentice   |
+|        Rustleif        |       Dawnstar       |       Adept      |      Adept     |
+|        Shuftharz       |      Mor Khazgur     |       Adept      |   Apprentice   |
+|    Ulfberth War-Bear   |       Whiterun       |    Apprentice    |   Apprentice   |
+
+
+Prior to the Dawnguard DLC, Eorlund Gray-Mane, true to his name, was the most skilled smith in Skyrim. However, that title now belongs to Gunmar from the Dawnguard DLC. Surprisingly, none of the smiths in Skyrim actually have a smithing level anywhere near 100. The lowest smithing level in Skyrim SE is 5 while the highest smithing level in Skyrim SE is 57. This is why the mod introduces Smithing Mastery to control who can produce and refine the various types of equipment. 
+
+
+Each type of equipment maps to a required Smithing Mastery level as defined in the following table.
+
+
+| Equipment Type | Smithing Mastery |
+|----------------|------------------|
+| Advanced       | Adept            |
+| Arcane         | Adept            |
+| Bonemold       | Novice           |
+| Chitin         | Apprentice       |
+| Daedric        | Master           |
+| Dragon         | Master           |
+| Dwarven        | Apprentice       |
+| Ebony          | Master           |
+| Elven          | Apprentice       |
+| Glass          | Expert           |
+| Nordic         | Adept            |
+| Orcish         | Adept            |
+| Steel          | Novice           |
+
+
+As can be seen in the prior table. Daedric, Dragon, Ebony, and Stalhrim armor are locked behind Master level smithing. Skyforged arms can only be forged by Eorlund Gray-Mane. Wolf armor can only be forged by Eorlund Gray-Mane after you complete the quest "The Silver Hand" from the Harbingers questline. Stalhrim arms and armor can only be forged by Baldor Iron-Shaper after you complete the optional quest "A New Source of Stalhrim".
