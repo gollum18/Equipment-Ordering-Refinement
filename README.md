@@ -70,4 +70,4 @@ There are five quests unique to the vendor introduced by this mod **WIP**:
 
 
 ## Blacksmith Vendor Notes
-For notes on the blacksmiths of Skyrim including their smithing and speech levels, please see "*Blacksmiths SE.xlsx*". The first sheet in the workbook contains information that may be useful to other mod authors as extracted from the Creation Kit. Every other sheet in the workbook showss the calculations and costs of the equipment craftable by the vendor introduced by this mod.
+For notes on the blacksmiths of Skyrim including their smithing and speech levels, please see "*Blacksmiths SE.xlsx*". The first sheet in the workbook contains information that may be useful to other mod authors as extracted from the Creation Kit. Every other sheet in the workbook shows the calculations and costs of the equipment craftable by the vendor introduced by this mod.
