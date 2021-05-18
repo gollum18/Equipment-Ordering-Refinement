@@ -34,10 +34,7 @@ This vendor has extensive experience working with the Dunmer people of Morrowind
 The below table contains notes on all of the blacksmith vendors in the base game and its' DLCs including their smithing level and speech level. Additionally, it also contains generate smithing mastery and speech mastery categories that I generated based on a forced normal distribution with the following ranges [0 15), [15, 50), [50, 85), [85, 100]. See the table itself for where the individual smiths stand in terms of smithing and speech mastery. 
 
 
-|                        |                        |                      |          |        |                     |                   |                  |                |
 |------------------------|------------------------|----------------------|----------|--------|---------------------|-------------------|------------------|----------------|
-|                        |                        |                      |          |        |                     |                   |                  |                |
-|                        |                        |                      |          |        |                     |                   |                  |                |
 | ID                     | Name                   | Location             | Smithing | Speech | Smithing Percentile | Speech Percentile | Smithing Mastery | Speech Mastery |
 | AdrianneAvenicci       | Adrianne Avenicci      | Whiterun             | 26       | 26     | 0.403846154         | 0.488372093       | Apprentice       | Apprentice     |
 | Alvor                  | Alvor                  | Riverwood            | 39       | 40     | 0.653846154         | 0.813953488       | Expert           | Expert         |
