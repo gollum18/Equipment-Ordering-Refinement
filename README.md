@@ -60,6 +60,15 @@ Equipment cost is based on three factors: base cost, materials cost, labor cost.
 Please see the Blacksmiths SE excel data sheet for the actual cost of each piece of equipment relative to its' base cost, materials cost and labor cost.
 
 
+## Quests
+There are five quests unique to the vendor introduced by this mod **WIP**:
+1. ***Mastery of the Ancients*** - Raises the vendors' smithing level to 80 and allows them to craft Ebony equipment and refine it to Legendary quality.
+2. ***Mastery of the Daedra*** - Raises the vendors' smithing level to 90 and allows them to craft Daedric equipment and refine it to Legendary quality.
+3. ***Mastery of the Dragons*** - Raises the vendors' smithing level to 100 and allows them to craft Dragonplate, Dragonscale, and Dragonbone equipment and refine them to legendary quality.
+4. ***Mastery of the Arcane*** - Allows the vendor to refine Daedric artifacts and unique equipment to Legendary level. By comparison, the Dragonborn can only refined Daedric artifacts and most unique equipment to Flawless quality as the smithing requirements needed to refine higher are usually higher than the max smithing level attainable in-game.
+5. ***Mastery of the Flames*** - Allows the vendor to refine to Mastercrafted level. Mastercrafted equipment is stronger than Legendary equipment and is intended for very late game (i.e. level 50+). As such, this quest is planned to be extremely difficult to complete. Note: *This may not be possible, I am currently determining its' feasibility.*
+
+
 ## Blacksmith Vendor Notes
 The below table contains notes on all of the blacksmith vendors in the base game and its' DLCs including their smithing level and speech level. Additionally, it also contains generated smithing mastery and speech mastery categories that are based on a forced normal distribution with the following ranges [0.0, 0.15), [0.15, 0.50), [0.50, 0.85), [0.85, 1]. See the table itself for where the individual smiths stand in terms of smithing and speech mastery. 
 
