@@ -4,16 +4,16 @@ A mod for Skyrim SE with the goal of allowing players to custom order and refine
 
 ## Goals
 - [X] Compute costs for every piece of equipment craftable by the vendor.
-- [] Implement equipment cost in-game.
-- [] Write quests for the vendor to unlock special equipment crafting and refinement.
-- [] Write dialogue for the vendor/player interaction.
-- [] Record the dialogue for the vendor.
-- [] Design and implement the vendors' skills and appearance.
-- [] Implement the quests in-game and tie them to the vendors skill/perk progression.
-- [] Implement dialogue system for equipment crafting.
-- [] Implement dialogue system for equipment refining.
-- [] Implement an appropriate schedule and idle animations.
-- [] Implement passive dialogue for the vendor to converse with the player while idling. 
+- [ ] Implement equipment cost in-game.
+- [ ] Write quests for the vendor to unlock special equipment crafting and refinement.
+- [ ] Write dialogue for the vendor/player interaction.
+- [ ] Record the dialogue for the vendor.
+- [ ] Design and implement the vendors' skills and appearance.
+- [ ] Implement the quests in-game and tie them to the vendors skill/perk progression.
+- [ ] Implement dialogue system for equipment crafting.
+- [ ] Implement dialogue system for equipment refining.
+- [ ] Implement an appropriate schedule and idle animations.
+- [ ] Implement passive dialogue for the vendor to converse with the player while idling. 
 
 
 ## Motivation
