@@ -39,7 +39,7 @@ This vendor has extensive experience working with the Dunmer people of Morrowind
 
 
 ## Blacksmith Vendor Notes
-The below table contains notes on all of the blacksmith vendors in the base game and its' DLCs including their smithing level and speech level. Additionally, it also contains generated smithing mastery and speech mastery categories that based on a forced normal distribution with the following ranges [0.0, 0.15), [0.15, 0.50), [0.50, 0.85), [0.85, 1). See the table itself for where the individual smiths stand in terms of smithing and speech mastery. 
+The below table contains notes on all of the blacksmith vendors in the base game and its' DLCs including their smithing level and speech level. Additionally, it also contains generated smithing mastery and speech mastery categories that based on a forced normal distribution with the following ranges [0.0, 0.15), [0.15, 0.50), [0.50, 0.85), [0.85, 1]. See the table itself for where the individual smiths stand in terms of smithing and speech mastery. 
 
 
 | ID                     | Name                   | Location             | Smithing | Speech | Smithing Percentile | Speech Percentile | Smithing Mastery | Speech Mastery |
