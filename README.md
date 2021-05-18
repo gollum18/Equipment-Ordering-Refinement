@@ -30,6 +30,7 @@ Sometime around patch 1.5 for Oldrim, Bethesda decided to do away with static le
 
 This mod seeks to balance this change by introducing a feature I've always wanted in the game and a feature that it seems Bethesda wanted as well considering the voice acting of the blacksmith vendors: equipment ordering and refinement. Initially, I wanted to create a mod that allows all blacksmith vendors in the base game and its' DLC to craft and refine equipment for the Dragonborn based on their smithing level, but I realized that such a mod was too much work for what I wanted to accomplish and was not really unique enough to differentiate this mod from mods that attempt to introduce similar concepts to Skyrim SE. Instead, this mod introduces a unique blacksmith vendor in Morthal as well as several quests that unlock the ability for the blacksmith vendor to craft higher tier equipment.
 
+
 The prices for crafting equipment are a combination of the equipments' base cost, cost of materials, and labor. Higher tier equipment will naturally cost more as a result. Note that the end price cost is not affected by the Dragonborns speech skill as the worldy travels of this vendor have ensured they have the gift of gab and are a Master in the speech skill.
 
 
@@ -59,7 +60,7 @@ Please see the Blacksmiths SE excel data sheet for the actual cost of each piece
 
 
 ## Blacksmith Vendor Notes
-The below table contains notes on all of the blacksmith vendors in the base game and its' DLCs including their smithing level and speech level. Additionally, it also contains generated smithing mastery and speech mastery categories that based on a forced normal distribution with the following ranges [0.0, 0.15), [0.15, 0.50), [0.50, 0.85), [0.85, 1]. See the table itself for where the individual smiths stand in terms of smithing and speech mastery. 
+The below table contains notes on all of the blacksmith vendors in the base game and its' DLCs including their smithing level and speech level. Additionally, it also contains generated smithing mastery and speech mastery categories that are based on a forced normal distribution with the following ranges [0.0, 0.15), [0.15, 0.50), [0.50, 0.85), [0.85, 1]. See the table itself for where the individual smiths stand in terms of smithing and speech mastery. 
 
 
 | ID                     | Name                   | Location             | Smithing | Speech | Smithing Percentile | Speech Percentile | Smithing Mastery | Speech Mastery |
