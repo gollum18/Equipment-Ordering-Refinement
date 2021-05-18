@@ -70,40 +70,4 @@ There are five quests unique to the vendor introduced by this mod **WIP**:
 
 
 ## Blacksmith Vendor Notes
-The below table contains notes on all of the blacksmith vendors in the base game and its' DLCs including their smithing level and speech level. Additionally, it also contains generated smithing mastery and speech mastery categories that are based on a forced normal distribution with the following ranges [0.0, 0.15), [0.15, 0.50), [0.50, 0.85), [0.85, 1]. See the table itself for where the individual smiths stand in terms of smithing and speech mastery. 
-
-
-| ID                     | Name                   | Location             | Smithing | Speech | Smithing Percentile | Speech Percentile | Smithing Mastery | Speech Mastery |
-|------------------------|------------------------|----------------------|----------|--------|---------------------|-------------------|------------------|----------------|
-| AdrianneAvenicci       | Adrianne Avenicci      | Whiterun             | 26       | 26     | 0.403846154         | 0.488372093       | Apprentice       | Apprentice     |
-| Alvor                  | Alvor                  | Riverwood            | 39       | 40     | 0.653846154         | 0.813953488       | Expert           | Expert         |
-| Arnskar                | Arnskar Ember-Master   | Ragged Flaggon       | 39       | 40     | 0.653846154         | 0.813953488       | Expert           | Expert         |
-| Asbjorn                | Asbjorn Fire-Tamer     | The Scorched Hammer  | 31       | 31     | 0.5                 | 0.604651163       | Adept            | Adept          |
-| Balimund               | Balimund               | The Scorched Hammer  | 35       | 36     | 0.576923077         | 0.720930233       | Adept            | Adept          |
-| Beirand                | Beirand                | Solitude Blacksmith  | 37       | 37     | 0.615384615         | 0.744186047       | Adept            | Adept          |
-| DLC1Gunmar             | Gunmar [1]             | Fort Dawnguard       | 57       | 48     | 1                   | 1                 | Master           | Master         |
-| DLC1Hestla             | Hestla                 | Castle Volkihar      | 20       | 15     | 0.288461538         | 0.23255814        | Apprentice       | Novice         |
-| DLC2RRGloverMallory    | Glover Mallory         | Raven Rock           | 15       | 20     | 0.192307692         | 0.348837209       | Apprentice       | Apprentice     |
-| DLC2SVBaldorIronShaper | Baldor Iron-Shaper [2] | Skaal Village        | 5        | 5      | 0                   | 0                 | Novice           | Novice         |
-| Dushnamub              | Dushnamub              | Narzulbur            | 20       | 15     | 0.288461538         | 0.23255814        | Apprentice       | Novice         |
-| Elrindir               | Elrindir               | The Drunken Huntsman | 21       | 24     | 0.307692308         | 0.441860465       | Apprentice       | Apprentice     |
-| EorlundGrayMane        | Eorlund Gray-Mane      | Skyforge             | 44       | 38     | 0.75                | 0.76744186        | Expert           | Expert         |
-| Fihada                 | Fihada                 | Fletcher             | 27       | 26     | 0.423076923         | 0.488372093       | Apprentice       | Apprentice     |
-| Filnjar                | Filnjar                | Shor's Stone         | 35       | 36     | 0.576923077         | 0.720930233       | Adept            | Adept          |
-| Gharol                 | Gharol                 | Dushnikh Yal         | 20       | 15     | 0.288461538         | 0.23255814        | Apprentice       | Novice         |
-| GhorzaGraBagol         | Ghorza gra-Bagol       | Markarth             | 5        | 5      | 0                   | 0                 | Novice           | Novice         |
-| Lod                    | Lod                    | Falkreath            | 27       | 27     | 0.423076923         | 0.511627907       | Apprentice       | Apprentice     |
-| MothgroBagol           | Moth gro-Bagol         | Markarth Keep        | 5        | 5      | 0                   | 0                 | Novice           | Novice         |
-| Oengul                 | Oengul War-Anvil       | Windhelm             | 27       | 27     | 0.423076923         | 0.511627907       | Apprentice       | Apprentice     |
-| Rustleif               | Rustleif               | Dawnstar             | 31       | 31     | 0.5                 | 0.604651163       | Adept            | Adept          |
-| Shuftharz              | Shuftharz              | Mor Khazgur          | 31       | 26     | 0.5                 | 0.488372093       | Adept            | Apprentice     |
-| Ulfberth               | Ulfberth War-Bear      | Whiterun             | 27       | 27     | 0.423076923         | 0.511627907       | Apprentice       | Apprentice     |
-|                        | Knight-Paladin Gelebor | Min                  | 5        | 5      |                     |                   |                  |                |
-|                        |                        | Max                  | 57       | 48     |                     |                   |                  |                |
-|                        |                        | 15th Percentile      | 16.5     | 15     |                     |                   |                  |                |
-|                        |                        | 50th Percentile      | 27       | 27     |                     |                   |                  |                |
-|                        |                        | 85th Percentile      | 38.4     | 37.7   |                     |                   |                  |                |
-|                        |                        | 100th Percentile     | 57       | 48     |                     |                   |                  |                |
-
-
-Note that this table is unused by the newest iteration of the mod as described in the **Overview** section. This table was to be utilized by the first iteration of the mod back when every blacksmithing vendor was planned to be able to craft and refine equipment.
+For notes on the blacksmiths of Skyrim including their smithing and speech levels, please see "*Blacksmiths SE.xlsx*". The first sheet in the workbook contains information that may be useful to other mod authors as extracted from the Creation Kit. Every other sheet in the workbook showss the calculations and costs of the equipment craftable by the vendor introduced by this mod.
