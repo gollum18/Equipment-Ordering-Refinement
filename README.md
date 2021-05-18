@@ -14,6 +14,7 @@ A mod for Skyrim SE with the goal of allowing players to custom order and refine
 - [ ] Implement dialogue system for equipment refining.
 - [ ] Implement an appropriate schedule and idle animations.
 - [ ] Implement passive dialogue for the vendor to converse with the player while idling. 
+- [ ] Implement relocation to player owned houses. House must have a smithy and forge on premises.
 
 
 ## Motivation
