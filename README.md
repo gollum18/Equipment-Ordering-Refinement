@@ -52,7 +52,7 @@ The below table contains notes on all of the blacksmith vendors in the base game
 | Beirand                | Beirand                | Solitude Blacksmith  | 37       | 37     | 0.615384615         | 0.744186047       | Adept            | Adept          |
 | DLC1Gunmar             | Gunmar [1]             | Fort Dawnguard       | 57       | 48     | 1                   | 1                 | Master           | Master         |
 | DLC1Hestla             | Hestla                 | Castle Volkihar      | 20       | 15     | 0.288461538         | 0.23255814        | Apprentice       | Novice         |
-| DLC2RRGloverMallory    | Glover Mallory         | Raven Rock           | 15       | 20     | 0.192307692         | 0.348837209       | Novice           | Apprentice     |
+| DLC2RRGloverMallory    | Glover Mallory         | Raven Rock           | 15       | 20     | 0.192307692         | 0.348837209       | Apprentice       | Apprentice     |
 | DLC2SVBaldorIronShaper | Baldor Iron-Shaper [2] | Skaal Village        | 5        | 5      | 0                   | 0                 | Novice           | Novice         |
 | Dushnamub              | Dushnamub              | Narzulbur            | 20       | 15     | 0.288461538         | 0.23255814        | Apprentice       | Novice         |
 | Elrindir               | Elrindir               | The Drunken Huntsman | 21       | 24     | 0.307692308         | 0.441860465       | Apprentice       | Apprentice     |
