@@ -34,18 +34,18 @@ This vendor has extensive experience working with the Dunmer people of Morrowind
 The below table contains notes on all of the blacksmith vendors in the base game and its' DLCs including their smithing level and speech level. Additionally, it also contains generate smithing mastery and speech mastery categories that I generated based on a forced normal distribution with the following ranges [0 15), [15, 50), [50, 85), [85, 100]. See the table itself for where the individual smiths stand in terms of smithing and speech mastery. 
 
 
-|------------------------|------------------------|----------------------|----------|--------|---------------------|-------------------|------------------|----------------|
 | ID                     | Name                   | Location             | Smithing | Speech | Smithing Percentile | Speech Percentile | Smithing Mastery | Speech Mastery |
+|------------------------|------------------------|----------------------|----------|--------|---------------------|-------------------|------------------|----------------|
 | AdrianneAvenicci       | Adrianne Avenicci      | Whiterun             | 26       | 26     | 0.403846154         | 0.488372093       | Apprentice       | Apprentice     |
 | Alvor                  | Alvor                  | Riverwood            | 39       | 40     | 0.653846154         | 0.813953488       | Expert           | Expert         |
 | Arnskar                | Arnskar Ember-Master   | Ragged Flaggon       | 39       | 40     | 0.653846154         | 0.813953488       | Expert           | Expert         |
 | Asbjorn                | Asbjorn Fire-Tamer     | The Scorched Hammer  | 31       | 31     | 0.5                 | 0.604651163       | Adept            | Adept          |
 | Balimund               | Balimund               | The Scorched Hammer  | 35       | 36     | 0.576923077         | 0.720930233       | Adept            | Adept          |
 | Beirand                | Beirand                | Solitude Blacksmith  | 37       | 37     | 0.615384615         | 0.744186047       | Adept            | Adept          |
-| DLC1Gunmar             | Gunmar                 | Fort Dawnguard       | 57       | 48     | 1                   | 1                 | Master           | Master         |
+| DLC1Gunmar             | Gunmar [1]             | Fort Dawnguard       | 57       | 48     | 1                   | 1                 | Master           | Master         |
 | DLC1Hestla             | Hestla                 | Castle Volkihar      | 20       | 15     | 0.288461538         | 0.23255814        | Apprentice       | Novice         |
 | DLC2RRGloverMallory    | Glover Mallory         | Raven Rock           | 15       | 20     | 0.192307692         | 0.348837209       | Novice           | Apprentice     |
-| DLC2SVBaldorIronShaper | Baldor Iron-Shaper     | Skaal Village        | 5        | 5      | 0                   | 0                 | Novice           | Novice         |
+| DLC2SVBaldorIronShaper | Baldor Iron-Shaper [2] | Skaal Village        | 5        | 5      | 0                   | 0                 | Novice           | Novice         |
 | Dushnamub              | Dushnamub              | Narzulbur            | 20       | 15     | 0.288461538         | 0.23255814        | Apprentice       | Novice         |
 | Elrindir               | Elrindir               | The Drunken Huntsman | 21       | 24     | 0.307692308         | 0.441860465       | Apprentice       | Apprentice     |
 | EorlundGrayMane        | Eorlund Gray-Mane      | Skyforge             | 44       | 38     | 0.75                | 0.76744186        | Expert           | Expert         |
