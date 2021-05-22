@@ -8,11 +8,11 @@ A mod for Skyrim SE with the goal of allowing players to custom order and refine
 - [ ] Write quests for the vendor to unlock special equipment crafting and refinement.
 - [ ] Write dialogue for the vendor/player interaction.
 - [ ] Record the dialogue for the vendor.
-- [ ] Design and implement the vendors' skills and appearance.
+- [X] Design and implement the vendors' skills and appearance.
 - [ ] Implement the quests in-game and tie them to the vendors skill/perk progression.
 - [ ] Implement dialogue system for equipment crafting.
 - [ ] Implement dialogue system for equipment refining.
-- [ ] Implement an appropriate schedule and idle animations.
+- [X] Implement an appropriate schedule.
 - [ ] Implement passive dialogue for the vendor to converse with the player while idling. 
 - [ ] Implement relocation to player owned houses. House must have a smithy and forge on premises.
 
