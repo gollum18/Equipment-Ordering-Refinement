@@ -72,3 +72,10 @@ There are five quests unique to the vendor introduced by this mod **WIP**:
 
 ## Blacksmith Vendor Notes
 For notes on the blacksmiths of Skyrim including their smithing and speech levels, please see "*Blacksmiths SE.xlsx*". The first sheet in the workbook contains information that may be useful to other mod authors as extracted from the Creation Kit. Every other sheet in the workbook shows the calculations and costs of the equipment craftable by the vendor introduced by this mod.
+
+
+## Version History
+Old and current versions of the mod are stored in the plugins folder for posterity and bug-tracking reasons. The following list details each version in the folder.
+
+
+- Alpha 1.0.0: Initial alpha release. Does not contain the refinement system and quests, player relocation, or voiced dialogue.
