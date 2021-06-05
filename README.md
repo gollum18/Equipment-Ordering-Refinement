@@ -78,4 +78,4 @@ For notes on the blacksmiths of Skyrim including their smithing and speech level
 Old and current versions of the mod are stored in the plugins folder for posterity and bug-tracking reasons. The following list details each version in the folder.
 
 
-- Alpha 1.0.0: Initial alpha release. Does not contain the refinement system and quests, player relocation, or voiced dialogue.
+- Beta 0.1.0: Initial alpha release. Does not contain the refinement system and quests, player relocation, or voiced dialogue.
