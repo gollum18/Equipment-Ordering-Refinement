@@ -79,3 +79,7 @@ Old and current versions of the mod are stored in the plugins folder for posteri
 
 
 - Beta 0.1.0: Initial beta release. Does not contain the refinement system and quests, player relocation, or voiced dialogue.
+- Beta 0.5.0: Implements the first three 'Mastery' quests. Does not include refinement, player relocation, or voiced dialogue.
+
+## Help Wanted
+Development of this mod is currently on hold. I almost have it completed to the point of an initial release candidate however I do not have the equipment or facilities to record dialogue for the blacksmith introduced by the mod. If anyone would like to assist with that, please see the issues section of this repo for more information.
